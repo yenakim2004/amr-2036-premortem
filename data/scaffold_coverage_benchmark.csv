@@ -1,0 +1,3 @@
+metric,count,coverage_fraction,note,source
+reference_library_scaffolds,15851,1.0,Bemis-Murcko scaffold count in reference library,General de novo molecule generation benchmark (not antibiotic-specific)
+generated_unique_scaffolds,2900,0.18295375686076587,unique scaffolds among generated molecules,General de novo molecule generation benchmark (not antibiotic-specific)
